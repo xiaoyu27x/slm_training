@@ -1,0 +1,67 @@
+#题目3：叙事连续性
+#Once upon a time there was a young girl who
+#Title 3,model10min
+python sample.py \
+  --out_dir=out-owt-10m \
+  --start="Once upon a time there was a young girl who" \
+  --num_samples=1 \
+  --max_new_tokens=150 \
+  --temperature=0.8 \
+  --top_k=200
+#Title 3,model30min
+python sample.py \
+  --out_dir=out-owt-30m \
+  --start="Once upon a time there was a young girl who" \
+  --num_samples=1 \
+  --max_new_tokens=150 \
+  --temperature=0.8 \
+  --top_k=200
+#Title 3,model8h
+python sample.py \
+  --out_dir=out-owt-8h \
+  --start="Once upon a time there was a young girl who" \
+  --num_samples=1 \
+  --max_new_tokens=150 \
+  --temperature=0.8 \
+  --top_k=200
+
+Overriding: out_dir = out-owt-10m
+Overriding: start = Once upon a time there was a young girl who
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 150
+Overriding: temperature = 0.8
+Overriding: top_k = 200
+number of parameters: 123.59M
+No meta.pkl found, assuming GPT-2 encodings...
+Once upon a time there was a young girl who is any room, but I'm in case. I was his family in that I'd held my head and I wanted to see my job under the next time, I was aware of my family, I felt. I watched out the very good chance to be a few hours, and I have been charged and didn't support my husband, and I got a matter who had to take the most people from the men involved. I didn't want to the name of my experience and I am. Many of the time I felt almost was so I was in my father, I always heard what I was a lot of it, and I think they had a child. We could change their own lives. A week to the time I’m not
+---------------
+Overriding: out_dir = out-owt-30m
+Overriding: start = Once upon a time there was a young girl who
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 150
+Overriding: temperature = 0.8
+Overriding: top_k = 200
+number of parameters: 123.59M
+No meta.pkl found, assuming GPT-2 encodings...
+Once upon a time there was a young girl who is sometimes lying to her.
+
+"I think so much about that for women is not a rape," she said. "I want to see an individual, because I had an adult but I was pretty. I watched for the sake of being able to be able to be allowed to have a child and take care of my husband, and she's a baby."
+
+She also says she actually told a lawyer who declined to consider becoming a child with her husband.
+
+Hubald said she thinks she's trying to say she's going to make her child a more powerful and female. "I don't think anyone at all, I don't think this is an un-shackhedent."
+
+"People like me
+---------------
+Overriding: out_dir = out-owt-8h
+Overriding: start = Once upon a time there was a young girl who
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 150
+Overriding: temperature = 0.8
+Overriding: top_k = 200
+number of parameters: 123.59M
+No meta.pkl found, assuming GPT-2 encodings...
+Once upon a time there was a young girl who looked up and said, ‘You know, I’m in that house.’ But the girl said, ‘I want you to leave,’ and she’s still there. They’re very nice and very smart. But it’s not like you’re there to actually be there. She’s just a different character.” In a few years, the new adult archetype will be introduced into the world of YA, an all-white, all-white society with an all-white character.
+
+In a discussion of YA, this is the first time we see a YA character from the comics. A YA character from the last issue of Y
+---------------

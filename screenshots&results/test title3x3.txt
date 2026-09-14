@@ -1,0 +1,86 @@
+#题目1：事实型
+#Paris is the capital of
+#Title 1,model10min
+python sample.py \
+  --out_dir=out-owt-10m \
+  --start="Paris is the capital of" \
+  --num_samples=1 \
+  --max_new_tokens=150 \
+  --temperature=0.8 \
+  --top_k=200
+
+#Title 1,model30min
+python sample.py \
+  --out_dir=out-owt-30m \
+  --start="Paris is the capital of" \
+  --num_samples=1 \
+  --max_new_tokens=150 \
+  --temperature=0.8 \
+  --top_k=200
+
+#Title 1,model8h
+python sample.py \
+  --out_dir=out-owt-8h \
+  --start="Paris is the capital of" \
+  --num_samples=1 \
+  --max_new_tokens=150 \
+  --temperature=0.8 \
+  --top_k=200
+
+#题目2：技术解释型
+#A computer processor is responsible for
+#Title 2,model10min
+python sample.py \
+  --out_dir=out-owt-10m \
+  --start="A computer processor is responsible for" \
+  --num_samples=1 \
+  --max_new_tokens=150 \
+  --temperature=0.8 \
+  --top_k=200
+
+#Title 2,model30min
+python sample.py \
+  --out_dir=out-owt-30m \
+  --start="A computer processor is responsible for" \
+  --num_samples=1 \
+  --max_new_tokens=150 \
+  --temperature=0.8 \
+  --top_k=200
+
+#Title 2,model8h
+python sample.py \
+  --out_dir=out-owt-8h \
+  --start="A computer processor is responsible for" \
+  --num_samples=1 \
+  --max_new_tokens=150 \
+  --temperature=0.8 \
+  --top_k=200
+
+
+#题目3：叙事连续性
+#Once upon a time there was a young girl who
+#Title 3,model10min
+python sample.py \
+  --out_dir=out-owt-10m \
+  --start="Once upon a time there was a young girl who" \
+  --num_samples=1 \
+  --max_new_tokens=150 \
+  --temperature=0.8 \
+  --top_k=200
+#Title 3,model30min
+python sample.py \
+  --out_dir=out-owt-30m \
+  --start="Once upon a time there was a young girl who" \
+  --num_samples=1 \
+  --max_new_tokens=150 \
+  --temperature=0.8 \
+  --top_k=200
+#Title 3,model8h
+python sample.py \
+  --out_dir=out-owt-8h \
+  --start="Once upon a time there was a young girl who" \
+  --num_samples=1 \
+  --max_new_tokens=150 \
+  --temperature=0.8 \
+  --top_k=200
+

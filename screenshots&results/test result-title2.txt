@@ -1,0 +1,82 @@
+#题目2：技术解释型
+#A computer processor is responsible for
+#Title 2,model10min
+python sample.py \
+  --out_dir=out-owt-10m \
+  --start="A computer processor is responsible for" \
+  --num_samples=1 \
+  --max_new_tokens=150 \
+  --temperature=0.8 \
+  --top_k=200
+
+#Title 2,model30min
+python sample.py \
+  --out_dir=out-owt-30m \
+  --start="A computer processor is responsible for" \
+  --num_samples=1 \
+  --max_new_tokens=150 \
+  --temperature=0.8 \
+  --top_k=200
+
+#Title 2,model8h
+python sample.py \
+  --out_dir=out-owt-8h \
+  --start="A computer processor is responsible for" \
+  --num_samples=1 \
+  --max_new_tokens=150 \
+  --temperature=0.8 \
+  --top_k=200
+Overriding: out_dir = out-owt-10m
+Overriding: start = A computer processor is responsible for
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 150
+Overriding: temperature = 0.8
+Overriding: top_k = 200
+number of parameters: 123.59M
+No meta.pkl found, assuming GPT-2 encodings...
+A computer processor is responsible for the time you now doing that they have a bit of so we do that it’s how we’re going to work with data?
+
+Please also tell you want to follow this below.
+
+But for the website has been able to support for you to become an early-time and we meet support the company, and you believe it is going to be able to create a user address that leads to a new new code that access and you just a statement on your mind, we don’t want to say.
+
+We’re always think that kind of discussion is used to avoid this project, we can be a single form and change from the last week, which makes the time now.
+
+The
+---------------
+Overriding: out_dir = out-owt-30m
+Overriding: start = A computer processor is responsible for
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 150
+Overriding: temperature = 0.8
+Overriding: top_k = 200
+number of parameters: 123.59M
+No meta.pkl found, assuming GPT-2 encodings...
+A computer processor is responsible for allowing any web phone to get a phone number.
+
+And all that it’s worth noting is that the company has no problem with the Internet, especially the site, has been working on a virtual basis for many years.
+
+“If Sony had not yet announced an early-floor basis, it would have been successful,” he said. “We’re actually trying to be a product.”
+
+However, the experience has been on many long-time images happening in the last year. Microsoft's "next-term" version of the web is expected to continue, and Yahoo's current version of the web is expected to be released in March, which makes viewers look only.
+
+The
+---------------
+Overriding: out_dir = out-owt-8h
+Overriding: start = A computer processor is responsible for
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 150
+Overriding: temperature = 0.8
+Overriding: top_k = 200
+number of parameters: 123.59M
+No meta.pkl found, assuming GPT-2 encodings...
+A computer processor is responsible for allowing any web page to be viewed in the background for the first time in the history of the website.
+
+If you have ever saved data from an individual website, the first thing you’ll do is visit the web page to view the page from a different location than the page that was saved from the page.
+
+If you are using a web browser, the images that are stored in the image are stored in the new location, the name displayed on the page is stored in the local environment, and the search results will appear in the local environment.
+
+If you are a web developer working on a website, you know that this computer is not the same as the one you were looking to save your time.
+
+The
+---------------

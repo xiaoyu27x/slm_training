@@ -1,0 +1,7 @@
+# pip install torch==2.1.2
+numpy==1.26.4
+tqdm>=4.66,<5
+tiktoken>=0.5,<1
+datasets>=3.6,<4
+huggingface_hub>=0.24
+requests>=2.31

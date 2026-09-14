@@ -1,0 +1,84 @@
+ #题目1：事实型
+#Paris is the capital of
+#Title 1,model10min
+python sample.py \
+  --out_dir=out-owt-10m \
+  --start="Paris is the capital of" \
+  --num_samples=1 \
+  --max_new_tokens=150 \
+  --temperature=0.8 \
+  --top_k=200
+
+#Title 1,model30min
+python sample.py \
+  --out_dir=out-owt-30m \
+  --start="Paris is the capital of" \
+  --num_samples=1 \
+  --max_new_tokens=150 \
+  --temperature=0.8 \
+  --top_k=200
+
+#Title 1,model8h
+python sample.py \
+  --out_dir=out-owt-8h \
+  --start="Paris is the capital of" \
+  --num_samples=1 \
+  --max_new_tokens=150 \
+  --temperature=0.8 \
+  --top_k=200
+Overriding: out_dir = out-owt-10m
+Overriding: start = Paris is the capital of
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 150
+Overriding: temperature = 0.8
+Overriding: top_k = 200
+number of parameters: 123.59M
+No meta.pkl found, assuming GPT-2 encodings...
+Paris is the capital of the eastern North East.
+
+R. Senate for the state has in the United States in general, the Senate and his biggest decision that the Union has not to the only                                 had an entirely.
+
+When the state’s been the next two more efficient for the government, but will be the past low-to the capital, and the U.S.S. govern                                ment has been involved in the federal national war.
+
+The government has worked for the election, on the US, we all-based cost of the United States. The US is not to be more. We have a f                                irst way to prevent this year, we can be a single form and change from the last year, which makes the government now.
+
+The
+---------------
+Overriding: out_dir = out-owt-30m
+Overriding: start = Paris is the capital of
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 150
+Overriding: temperature = 0.8
+Overriding: top_k = 200
+number of parameters: 123.59M
+No meta.pkl found, assuming GPT-2 encodings...
+Paris is the capital of the “green-on-the-ge-of-the-rapt” model.
+
+But what does this mean? Is it really a matter of good luck?
+
+I have to do it for the sake of life. A lot of it takes us into the “redge-of-the-art-on-the-rapla” model. In a few words, the size                                 of the problem with this problem is more complicated than it does in the “predictably healthy” model.
+
+Is this more fun to a discussion of some of the other scientists at the core of computer science:
+
+Mink-filled by some people who don’t know how
+---------------
+Overriding: out_dir = out-owt-8h
+Overriding: start = Paris is the capital of
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 150
+Overriding: temperature = 0.8
+Overriding: top_k = 200
+number of parameters: 123.59M
+No meta.pkl found, assuming GPT-2 encodings...
+Paris is the capital of the eastern half of Spain.
+
+The Spanish Ministry of Finance wants to assess the issue in detail.
+
+"An appropriate decision has been taken by the Spanish government to conduct an investigation into the political situation. The Span                                ish Government and the government have spoken about the situation in Madrid, but have yet to comment," it said.
+
+In general, it said, Spanish authorities are concerned that they may have a situation which could negatively affect the reputation o                                f the Spanish government.
+
+After a long pause, Madrid's government issued a statement saying that it "does not perceive fundamental differences between Madrid                                 and Madrid. We continue to receive information from the Spanish government related to the Catalan situation."
+
+It added that Madrid "continues to receive information from
+---------------
